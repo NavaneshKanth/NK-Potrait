@@ -48,6 +48,7 @@ export default function Topbar() {
                     letter-spacing: 2px;
                     text-shadow: 1px 1px 5px rgba(0,0,0,0.3);
                 }
+
                 .name-logo span {
                     color: #fff700;
                     font-weight: 700;
