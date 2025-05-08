@@ -15,7 +15,7 @@ export default function Contact() {
           <h3>Reach Me</h3>
           <p><FaPhoneAlt /> +971 58 110 4785 <span>(Dubai - WhatsApp)</span></p>
           <p><FaPhoneAlt /> +91 9489635481 <span>(India - WhatsApp)</span></p>
-          <p><FaEnvelope /> navaneshkanthna@gmail.com</p>
+          <p><FaEnvelope /> navaneshkanth@gmail.com</p>
           <p><FaMapMarkerAlt /> Currently in Dubai, Native: Tamil Nadu, India</p>
           <a
             href={`${process.env.PUBLIC_URL}/NavaneshKanthNAResume.pdf`}
