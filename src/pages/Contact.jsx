@@ -13,7 +13,7 @@ export default function Contact() {
         {/* Contact Info */}
         <div className="contact-info">
           <h3>Reach Me</h3>
-          <p><FaPhoneAlt /> +971 58 110 4785 <span>(Dubai - WhatsApp)</span></p>
+          <p><FaPhoneAlt /> +971 58 115 7270 <span>(Dubai - WhatsApp)</span></p>
           <p><FaPhoneAlt /> +91 9489635481 <span>(India - WhatsApp)</span></p>
           <p><FaEnvelope /> navaneshkanth@gmail.com</p>
           <p><FaMapMarkerAlt /> Currently in Dubai, Native: Tamil Nadu, India</p>
